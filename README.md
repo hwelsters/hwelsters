@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm hwelsters, a computer science 
+I'm hwelsters, a computer science student. Here's some info about me!
 
 ### 🔨 Interests:
-<ul>Web development</ul>
-<ul>Game development</ul>
+- Web development
+- Game development
