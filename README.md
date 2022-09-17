@@ -5,5 +5,5 @@ I'm hwelsters, a game and web developer. Here's some information about me!
 - Web development
 - Game development
 
-### 🎮 Play my games:
+### 🎮 Game development was the reason why I even got into programming. Play my games:
 https://hwelsters.itch.io/
