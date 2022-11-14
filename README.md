@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm hwelsters, a game and web developer. Here's some information about me!
+I'm hwelsters, a software engineer interested in ML, Web Development and Game Development.
 
 ### 🔨 Interests:
 - Web development
